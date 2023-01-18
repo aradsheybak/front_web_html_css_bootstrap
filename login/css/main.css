@@ -1,0 +1,11 @@
+@font-face{
+    font-family: isn;
+    src: url("../fonts/isn.ttf") ;
+}
+
+.block{
+    background-color: darkorange;
+    outline-style: solid;
+    outline-color: blue;
+    outline-width: thick;
+}
